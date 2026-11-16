@@ -1,0 +1,16 @@
+Here is your organized list:
+- Gamma [#5 novelfull]
+## Action
+- Alpha Saga [#1 WTRLAB]
+- Alpha Saga [#1 WTRLAB]
+- Unknown [#999 x]
+- Two [#1 a] [#2 b]
+Chaotic Sword God
+* Beta's story
+- Renamed Thing [#6 fenrir]
+##
+- Local Book [#7 local]
+### Action
+- Chaotic Sword God [#4 fenrir]
+- History Only [#8 WTRLAB]
+- Big [#99999999999 x]

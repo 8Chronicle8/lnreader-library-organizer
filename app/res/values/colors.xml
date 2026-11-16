@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E5E8C</color>
+    <color name="primary_dark">#1F4466</color>
+    <color name="accent">#2E7D5B</color>
+    <color name="icon_bg">#2E5E8C</color>
+    <color name="report_bg">#F1F4F8</color>
+    <color name="problem">#B3261E</color>
+</resources>

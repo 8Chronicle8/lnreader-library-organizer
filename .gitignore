@@ -1,0 +1,10 @@
+build/
+logs/
+*.apk
+*.jks
+*.keystore
+*.zip
+*.part
+.env
+__pycache__/
+HANDOFF.md

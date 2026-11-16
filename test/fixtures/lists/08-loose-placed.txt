@@ -1,0 +1,18 @@
+// the loose novel's line moved under Empty, without the //
+## Default
+- Gamma [#5 novelfull]
+
+## Local
+- Local Book [#7 local]
+
+## Wtr-Lab
+- Alpha Saga [#1 WTRLAB]
+- beta’s Story [#3 WTRLAB]
+- Chaotic Sword God [#2 WTRLAB]
+
+## Fenrir
+- Chaotic Sword God [#4 fenrir]
+- Delta [Remake] [#6 fenrir]
+
+## Empty
+- Loose Novel [#10 WTRLAB]

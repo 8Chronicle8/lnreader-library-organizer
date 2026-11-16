@@ -1,0 +1,33 @@
+// LNReader library: 8 novels in 5 categories
+// From fixture.zip (LNReader 2.1.4)
+//
+// How to edit:
+//   ## Name                 a category: rename, add, delete or reorder freely
+//   - Title [#12 source]    a novel: move its line to move the novel
+//   Keep the [#number source] tag at the end of every novel line.
+//   A novel listed under two categories goes in both.
+//   A novel missing from the list goes to Default.
+//   Lines starting with // are notes and are ignored.
+
+## Default
+- Gamma [#5 novelfull]
+
+## Local
+- Local Book [#7 local]
+
+## Wtr-Lab
+- Alpha Saga [#1 WTRLAB]
+- beta’s Story [#3 WTRLAB]
+- Chaotic Sword God [#2 WTRLAB]
+
+## Fenrir
+- Chaotic Sword God [#4 fenrir]
+- Delta [Remake] [#6 fenrir]
+
+## Empty
+
+// In the library but in no category, so LNReader does not show them: 1 novel.
+// They stay that way unless you move their lines, without the leading //, under a category:
+// - Loose Novel [#10 WTRLAB]
+
+// 1 novel is only in reading history (not in the library); not listed, left unchanged.

@@ -1,0 +1,5 @@
+unchanged: false
+categoryJson: [{"id":10,"name":"Fantasy","sort":1,"novelIds":[1,6,2]},{"id":11,"name":"Romance","sort":2,"novelIds":[3,2]},{"id":2,"name":"Local","sort":3,"novelIds":[7]},{"id":1,"name":"Default","sort":4,"novelIds":[5,10,4]}]
+unplaced: 4
+moved: 6
+removed: Wtr-Lab, Fenrir, Empty

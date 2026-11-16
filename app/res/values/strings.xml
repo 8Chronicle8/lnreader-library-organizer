@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Library Organizer</string>
+    <string name="share_list_label">Organizer: use as list</string>
+    <string name="open_backup_label">Organizer: open backup</string>
+
+    <string name="step_backup">1 · LNReader backup</string>
+    <string name="open_backup">Open backup…</string>
+    <string name="no_backup">No backup open. In LNReader: More → Settings → Backup → Create backup, then open that .zip here.</string>
+
+    <string name="step_list">2 · Your list</string>
+    <string name="copy_list">Copy list</string>
+    <string name="save_list">Save as .txt…</string>
+    <string name="wanted_hint">Categories you want (optional, for the AI), e.g. Cultivation, Romance, System</string>
+    <string name="copy_ai">Copy for AI</string>
+    <string name="share_ai">Share to AI app</string>
+
+    <string name="step_edit">3 · Edit or paste the organized list</string>
+    <string name="edit_help">Move novel lines under \"## Category\" lines, or paste the AI\'s answer. Keep the [#number source] tag on every novel line.</string>
+    <string name="paste">Paste</string>
+    <string name="open_txt">Open .txt…</string>
+    <string name="reset">Reset</string>
+    <string name="editor_hint">The list appears here after you open a backup.</string>
+
+    <string name="step_save">4 · New backup</string>
+    <string name="check">Check list</string>
+    <string name="save_backup">Save organized backup…</string>
+
+    <string name="menu_share_log">Share log</string>
+    <string name="menu_how">How restoring works</string>
+</resources>

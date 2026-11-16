@@ -1,0 +1,5 @@
+unchanged: false
+categoryJson: [{"id":1,"name":"Default","sort":1,"novelIds":[5]},{"id":2,"name":"Local","sort":2,"novelIds":[7]},{"id":4,"name":"Wtr-Lab ","sort":3,"novelIds":[1,3,2]},{"id":6,"name":"Fenrir","sort":4,"novelIds":[4,6],"extra":"kept"},{"id":9,"name":"Empty","sort":5,"novelIds":[10]}]
+unplaced:
+moved: 1
+removed:

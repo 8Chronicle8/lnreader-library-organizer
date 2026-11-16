@@ -1,0 +1,33 @@
+// LNReader library: 8 novels in 5 categories
+// From fixture.zip (LNReader 2.1.4)
+//
+// Please organize the novel library below into categories.
+// - Use these categories: Fantasy, Romance.
+//   Add another category only for novels that fit none of them.
+// - Write each category as a line "## Category name", followed by its novels.
+// - Copy every novel line exactly as it is, including the [#number source] tag at the end.
+// - Put each novel under the one category that fits it best. Do not leave any novel out.
+// - Reply with only the organized list in this same format, without any other text.
+
+## Default
+- Gamma [#5 novelfull]
+
+## Local
+- Local Book [#7 local]
+
+## Wtr-Lab
+- Alpha Saga [#1 WTRLAB]
+- beta’s Story [#3 WTRLAB]
+- Chaotic Sword God [#2 WTRLAB]
+
+## Fenrir
+- Chaotic Sword God [#4 fenrir]
+- Delta [Remake] [#6 fenrir]
+
+## Empty
+
+// In the library but in no category, so LNReader does not show them: 1 novel.
+// They stay that way unless you move their lines, without the leading //, under a category:
+// - Loose Novel [#10 WTRLAB]
+
+// 1 novel is only in reading history (not in the library); not listed, left unchanged.

@@ -1,0 +1,18 @@
+unchanged: false
+categoryJson: [{"id":1,"name":"Default","sort":1,"novelIds":[2,5,7]},{"id":10,"name":"Action","sort":2,"novelIds":[1,3,6,4]}]
+unplaced: 2, 5, 7
+moved: 6
+removed: Local, Wtr-Lab, Fenrir, Empty
+issue: 1 UNRECOGNIZED
+issue: 2 NO_CATEGORY
+issue: 5 DUPLICATE_NOVEL
+issue: 6 UNKNOWN_NOVEL
+issue: 7 TWO_TAGS
+issue: 8 AMBIGUOUS_TITLE
+issue: 9 MATCHED_BY_TITLE
+issue: 10 TITLE_DIFFERS
+issue: 11 EMPTY_CATEGORY_NAME
+issue: 12 NO_CATEGORY
+issue: 13 DUPLICATE_CATEGORY
+issue: 15 UNKNOWN_NOVEL
+issue: 16 UNKNOWN_NOVEL
